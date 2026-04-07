@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Vitor
+## 👋 Olá, eu sou o Vitor!!
 
 -🎓 Estudante de Engenharia de Software (3º semestre - UMC)
 -💻 Desenvolvedor em formação, atualmente aprendendo Java
