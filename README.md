@@ -22,4 +22,4 @@ Busco aplicar na prática tudo o que aprendo e crescer profissionalmente na áre
 Busco minha primeira oportunidade como desenvolvedor, onde eu possa aprender, contribuir e evoluir constantemente.
 
 ## 📫 Contato
-- [!LinkedIn](https://www.linkedin.com/in/vitor-landim-6209a0318/)
+- [👔LinkedIn](https://www.linkedin.com/in/vitor-landim-6209a0318/)
