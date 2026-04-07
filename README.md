@@ -11,3 +11,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+## 🚀 Sobre mim
+
+Sou estudante de Engenharia de Software na UMC e estou em constante evolução na área de desenvolvimento.
+Tenho experiência com desenvolvimento back-end e banco de dados, além de conhecimentos em front-end. 
+Busco aplicar na prática tudo o que aprendo e crescer profissionalmente na área de tecnologia.
