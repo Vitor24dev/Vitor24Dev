@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou o Vitor
-
+[Linkedln]https://www.linkedin.com/in/vitor-landim-6209a0318/
 -🎓 Estudante de Engenharia de Software (3º semestre - UMC)
 -💻 Desenvolvedor em formação, atualmente aprendendo Java
 -🚀 Em busca de oportunidades na área de tecnologia
@@ -17,3 +17,10 @@
 Sou estudante de Engenharia de Software na UMC e estou em constante evolução na área de desenvolvimento.
 Tenho experiência com desenvolvimento back-end e banco de dados, além de conhecimentos em front-end. 
 Busco aplicar na prática tudo o que aprendo e crescer profissionalmente na área de tecnologia.
+
+## 📈 Objetivo
+Busco minha primeira oportunidade como desenvolvedor, onde eu possa aprender, contribuir e evoluir constantemente.
+
+## 📫 Contato
+- GitHub: https://github.com/seu-usuario
+- LinkedIn: (adicione aqui quando tiver)
